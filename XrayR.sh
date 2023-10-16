@@ -386,7 +386,7 @@ show_usage() {
 
 show_menu() {
     echo -e "
-  ${green}XrayR 后端管理脚本，${plain}${red}不适用于docker${plain}
+  ${green}XrayR 后端管理脚本，${plain}${red} 修改版${plain}
 --- https://github.com/XrayR-project/XrayR ---
   ${green}0.${plain} 修改配置
 ————————————————
