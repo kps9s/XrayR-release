@@ -188,7 +188,7 @@ install_XrayR() {
     cd $cur_dir
     rm -f install.sh
     echo -e ""
-    echo "XrayR 管理脚本使用方法 (兼容使用xrayr执行，大小写不敏感): "
+    echo "XrayR 管理脚本使用方法 (kps9s): "
     echo "------------------------------------------"
     echo "XrayR                    - 显示管理菜单 (功能更多)"
     echo "XrayR start              - 启动 XrayR"
